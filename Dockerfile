@@ -1,3 +1,4 @@
+#INICIO
 FROM ubuntu:14.04
 LABEL maintainer="JOM <example@example.com>"
 
